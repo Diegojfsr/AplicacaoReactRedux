@@ -3,7 +3,8 @@
 
 <h4> 
  Repositório criado para documentar meu aprendizado de Java! 
- Repositorio para o Desafio de projeto: Agencia Bancaria em Java: Criar Conta - Depositar - Sacar - Transferir - Listar Contas.
+ Repositorio para o Desafio de projeto: Agencia Bancaria em Java: <br>
+ Criar Conta - Depositar - Sacar - Transferir - Listar Contas.
 </h4>
 
 
