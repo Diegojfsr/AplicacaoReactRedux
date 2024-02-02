@@ -13,21 +13,18 @@
  O objetivo principal desse projeto é: <br>
  Criar um Banco Digital com Java e Orientação a Objetos.
 </h3> 
+<p>
+ Para isso, vamos interpretar o seguinte cenário:
+  “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas   da própria instituição).”
+</p>
 
+<h2 dir="auto"> 🛑 Domínio/Problema </h2>
 <ul dir="auto">
  <li> Explorar os pilares da orientação a objetos no contexto bancário. </li>
  <li> Implementa um projeto de referência de forma prática e interativa. </li>
  <li> Desenvolver a capacidade de abstração reproduzindo essa solução. </li>
  <li> Ir além, e implementar minhas próprias evoluções e melhorias. </li>
 </ul>
-
-
-<h2 dir="auto"> 🛑 Domínio/Problema </h2>
-<p dir="auto">
-  Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário:
-  “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas   da própria instituição).”
-</p>
-
 
 <h2 dir="auto"> ⚠️ Especificação e requisitos</h2>
 <ul dir="auto">
