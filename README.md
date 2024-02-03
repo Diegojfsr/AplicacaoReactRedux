@@ -1,5 +1,5 @@
 
-<h1>  Repositorio de projetos e codigos Java. </h1>
+<h1>  Repositório de projetos e códigos Java. </h1>
 
 <h4> 
  Repositório criado para documentar meu aprendizado de Java! 
