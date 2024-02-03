@@ -2,8 +2,8 @@
 <h1>  Repositório de projetos e códigos Java. </h1>
 
 <h4> 
- Repositório criado para documentar meu aprendizado de Java! 
- Repositorio para o Desafio de projeto: Agencia Bancaria em Java: <br>
+ Repositório criado para documentar meu aprendizado de Java! <br>
+ Desafio de projeto: Agencia Bancaria em Java: <br>
  Criar Conta - Depositar - Sacar - Transferir - Listar Contas.
 </h4>
 
